@@ -1,0 +1,23 @@
+{
+  "name": "word-guess-cli",
+  "version": "1.0.0",
+  "description": "CLI based game in which the player tries to guess the secret word.",
+  "main": "index.js",
+  "dependencies": {
+    "prompts": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lio-mrqz/Word-Guess-CLI.git"
+  },
+  "author": "Lio-mrqz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lio-mrqz/Word-Guess-CLI/issues"
+  },
+  "homepage": "https://github.com/lio-mrqz/Word-Guess-CLI#readme"
+}
